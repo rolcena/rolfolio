@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rolfolio/static/css/main.073c9b0a.css",
-    "main.js": "/rolfolio/static/js/main.a1856c26.js",
+    "main.js": "/rolfolio/static/js/main.478f0657.js",
     "static/js/787.e9f51430.chunk.js": "/rolfolio/static/js/787.e9f51430.chunk.js",
     "static/media/logo.svg": "/rolfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rolfolio/index.html",
     "main.073c9b0a.css.map": "/rolfolio/static/css/main.073c9b0a.css.map",
-    "main.a1856c26.js.map": "/rolfolio/static/js/main.a1856c26.js.map",
+    "main.478f0657.js.map": "/rolfolio/static/js/main.478f0657.js.map",
     "787.e9f51430.chunk.js.map": "/rolfolio/static/js/787.e9f51430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a1856c26.js"
+    "static/js/main.478f0657.js"
   ]
 }
